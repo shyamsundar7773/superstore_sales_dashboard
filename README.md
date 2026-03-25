@@ -74,6 +74,6 @@ This data helps analyze **sales patterns, profitability trends, and regional per
 
 ## Author
 
-**Shyam**
+**Shyam Sundar V**
 
 Aspiring Data Scientist | Data Analytics Enthusiast
